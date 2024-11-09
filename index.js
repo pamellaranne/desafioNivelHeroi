@@ -1,5 +1,5 @@
 let nomeHeroi = "Pamella";
-let quantidadeExperiencia = 15000;
+let quantidadeExperiencia = 1000;
 
 if (quantidadeExperiencia <= 1000) {
     console.log("Classificação da Experiência: Ferro");
